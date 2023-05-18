@@ -1,0 +1,12 @@
+{
+  "LinkOptions": [
+    {
+      "options":["Flight","Hotel","Car","Vacations","Check In","Flight Status","Change/Cancel"]
+    }
+  ],
+  "Errors": [
+    {
+      "loginErrorMessage":["The username/account number and/or password are incorrect."]
+    }
+  ]
+}
