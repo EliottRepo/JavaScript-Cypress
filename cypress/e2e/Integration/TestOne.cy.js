@@ -1,7 +1,7 @@
 import LoginPage from "../Pages/LoginPage"
 import HomePage from "../Pages/HomePage"
 
-describe('My First Test', () => {
+describe('Home page ', () => {
 
     beforeEach(() => {
         cy.fixture('HomepageTestData.json').as('homepageData')
